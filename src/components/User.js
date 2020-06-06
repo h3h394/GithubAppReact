@@ -126,8 +126,8 @@ const styles = css`
       justify-content: space-between;
       .imgContainer {
         width: 100%;
-        max-width: 120px;
-        height: 120px;
+        max-width: 40%;
+        height: 150px;
         img {
           width: 100%;
           height: 100%;
@@ -135,7 +135,7 @@ const styles = css`
       }
       .userRow {
         width: 100%;
-        max-width: 64%;
+        max-width: 56%;
         .userInfo,
         .userLinks {
           padding: 0;
